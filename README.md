@@ -16,6 +16,6 @@ The email that is produced will identify an alert level which is keyed to the am
 
 
 ## Report Output
-This report will send an email to the distribution list supplied.   The subject of the email will indicate the alert level and the email will contain a link to a GoogleSheet.
+This report will send an email to the distribution list supplied.   The subject of the email will indicate the alert level and the email will contain a link to a GoogleSheet.  The GoogleSheet can be viewed by anyone who has the link, and a Google account is not required.
 
 In addition to a tab for each , a tab will be produced that lists concepts added and removed, with an indicator if a removed concept has been identified as 'high usage'.
